@@ -133,5 +133,10 @@ body {
   font-size: smaller;
 }
 
+.custom-title {
+  color: #ffbf00; /* 替换 "#ff0000" 为你想要的颜色 */
+}
 
-
+.icon {
+  margin-left: 10px; /* 调整图标的位置 */
+}
