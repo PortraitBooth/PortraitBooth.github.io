@@ -147,7 +147,7 @@ body {
   vertical-align: middle; /* 垂直居中对齐图标和文本 */
 }
 .hero {
-  background-image: url('static/images/F066DACD-B67E-4E00-BFA3-02FEF77FFF0E_1_201_a.jpeg');
+  background-image: url('static/images/lalaland.jpeg');
   background-size: cover;  /* 背景图片覆盖整个元素 */
   background-position: center;  /* 背景图片居中 */
 }
