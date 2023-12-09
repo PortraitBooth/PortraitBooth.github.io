@@ -159,3 +159,6 @@ body {
   background-color: rgb(95, 89, 89);
   margin: 0 auto 20px;
 }
+.results-carousel img {
+  transform: scale(0.5);
+}
