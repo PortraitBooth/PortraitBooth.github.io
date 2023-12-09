@@ -160,6 +160,6 @@ body {
   transform: scale(0.2);
 } */
 .carousel {
-  width: 50vw;
+  width: 100vw;
   margin: 0 auto;
 }
