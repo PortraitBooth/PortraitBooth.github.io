@@ -107,7 +107,7 @@ body {
     height: 100%;
 }
 .container {
-  width: 30%; /* Adjust as needed */
+  width: 50%; /* Adjust as needed */
   margin: auto; /* Center the container */
 }
 
@@ -162,9 +162,9 @@ body {
   background-color: lightgray;
   margin: 0 auto 20px;
 }
-/* .results-carousel img {
-  transform: scale(0.2);
-} */
+.results-carousel img {
+  transform: scale(0.5);
+}
 
 .hero.with-background {
   background-image: url('static/images/lalaland.jpeg');
