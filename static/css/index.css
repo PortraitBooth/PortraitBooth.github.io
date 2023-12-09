@@ -152,7 +152,7 @@ body {
 }
 .divider {
   width: 50%;
-  height: 3px;
+  height: 5px;
   background-color: lightgray;
   margin: 0 auto 20px;
 }
