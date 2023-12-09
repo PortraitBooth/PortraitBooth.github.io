@@ -162,9 +162,9 @@ body {
   background-color: lightgray;
   margin: 0 auto 20px;
 }
-.results-carousel img {
+/* .results-carousel img {
   transform: scale(0.5);
-}
+} */
 
 .hero.with-background {
   background-image: url('static/images/lalaland.jpeg');
