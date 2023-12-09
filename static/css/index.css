@@ -112,7 +112,7 @@ body {
 }
 
 .results-carousel {
-  width: 50%; /* Adjust as needed */
+  width: 100%; /* Adjust as needed */
   margin: auto; /* Center the carousel */
   overflow: hidden;
 }
