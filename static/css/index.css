@@ -151,3 +151,8 @@ body {
   justify-content: center;
   align-items: center;
 }
+.hero1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
