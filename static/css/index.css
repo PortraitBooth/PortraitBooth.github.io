@@ -107,7 +107,7 @@ body {
     height: 100%;
 }
 .container {
-  width: 50%; /* Adjust as needed */
+  width: 100%; /* Adjust as needed */
   margin: auto; /* Center the container */
 }
 
