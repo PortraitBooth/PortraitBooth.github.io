@@ -165,3 +165,7 @@ body {
   background-size: cover;  /* 背景图片覆盖整个元素 */
   background-position: center;  /* 背景图片居中 */
   }
+  .results-carousel img {
+    width: 50%; /* Adjust as needed */
+    height: auto;
+}
