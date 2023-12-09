@@ -161,5 +161,6 @@ body {
 } */
 .carousel {
   width: 100vw;
+  height: auto;
   margin: 0 auto;
 }
