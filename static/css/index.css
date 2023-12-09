@@ -152,18 +152,14 @@ body {
 }
 .divider {
   width: 50%;
-  height: 5px;
-  background-color: rgb(205, 16, 47);
+  height: 1px;
+  background-color: lightgray;
   margin: 0 auto 20px;
 }
 /* .results-carousel img {
   transform: scale(0.2);
 } */
-.carousel {
-  width: 30vw;
-  height: auto;
-  margin: 0 auto;
-}
+
 .hero.with-background {
   background-image: url('static/images/lalaland.jpeg');
   background-size: cover;  /* 背景图片覆盖整个元素 */
