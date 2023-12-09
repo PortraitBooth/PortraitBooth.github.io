@@ -155,6 +155,7 @@ body {
   height: 1px;
   background-color: lightgray;
   margin: 0 auto 20px;
+  clear: both;
 }
 /* .results-carousel img {
   transform: scale(0.2);
