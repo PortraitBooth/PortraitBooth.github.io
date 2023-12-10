@@ -161,6 +161,14 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+.hero2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
 
 .divider {
   width: 50%;
