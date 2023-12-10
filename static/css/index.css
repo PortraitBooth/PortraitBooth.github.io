@@ -156,6 +156,13 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+.hero2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
 .divider {
   width: 50%;
   height: 2px;
