@@ -184,10 +184,3 @@ body {
   background-size: cover;  /* 背景图片覆盖整个元素 */
   background-position: center;  /* 背景图片居中 */
   }
-  .title1 {
-    text-align: center; /* Center the text */
-    margin-bottom: 20px; /* Add a bottom margin to the title */
-    margin-top: 20px; /* Add a bottom margin to the title */
-  
-  
-  }
