@@ -110,6 +110,11 @@ body {
   width: 50%; /* Adjust as needed */
   margin: auto; /* Center the container */
 }
+@media screen and (min-width: 600px) {
+  .container1 {
+    width: 50%;
+  }
+}
 
 .results-carousel {
   width: 100%; /* Adjust as needed */
