@@ -168,12 +168,6 @@ body {
   margin-bottom: 20px;
   text-align: center;
 }
-.subtitle{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
 
 .divider {
   width: 50%;
