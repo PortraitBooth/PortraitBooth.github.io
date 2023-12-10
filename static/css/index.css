@@ -181,6 +181,13 @@ body {
   background-color: rgb(255, 255, 255);
   margin: 0 auto 20px;
 }
+.divider2 {
+  width: 50%;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  margin: 0 auto 5px;
+}
+
 /* .results-carousel img {
   transform: scale(0.5);
 } */
